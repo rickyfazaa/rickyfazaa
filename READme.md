@@ -1,8 +1,10 @@
+
+# 🚀 Hii!~ I'm **[Ricky Khairul Faza](https://github.com/rickyfazaa/)** 👋👋
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickyfazaa&show_icons=true&locale=en&layout=compact" alt="rickyfazaa" /></p>
 
-- 🌱 I’m currently learning **[Go language](https://go.dev/dl/)**
+- 🌱 I’m currently learning **[Go language.](https://go.dev/dl/)** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 
-- 💬 You can ask me anything about **[Python basic or Python Fundamentals.](https://linkedin.com/in/rickyfazaa)**
+- 💬 You can ask me anything about  **[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> Python basic or Python Fundamentals.](https://linkedin.com/in/rickyfazaa)**
 
 - 📫 How to reach me **the_eiza_rhitza@yahoo.com**
 
