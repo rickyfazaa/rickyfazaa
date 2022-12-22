@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/rickyfazaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rickyfazaa" height="30" width="40" /></a>
 <a href="https://fb.com/rickyfazaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rickyfazaa" height="30" width="40" /></a>
 <a href="https://instagram.com/rickyfazaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rickyfazaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rickyfazaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rickyfazaa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@JXQF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rickyfazaa" height="30" width="40" /></a>
 <a href="https://discord.gg/Ricky Khairul Faza#7045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ricky Khairul Faza#7045" height="30" width="40" /></a>
 </p>
 
