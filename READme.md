@@ -1,6 +1,6 @@
 
 # 🚀 Hii!~ I'm **[Ricky Khairul Faza](https://github.com/rickyfazaa/)** 👋👋
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickyfazaa&show_icons=true&locale=en&layout=compact" alt="rickyfazaa" /></p>
+<p><img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rickyfazaa&show_icons=true&locale=en&layout=compact" alt="rickyfazaa" /></p>
 
 - 🌱 I’m currently learning **[Go language.](https://go.dev/dl/)** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 
