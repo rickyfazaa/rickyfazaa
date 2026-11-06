@@ -1,6 +1,6 @@
 
 # 🚀 Hii!~ I'm **[Ricky Khairul Faza](https://github.com/rickyfazaa/)** 👋👋
-<p><img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rickyfazaa&show_icons=true&locale=en&layout=compact" alt="rickyfazaa" /></p>
+<p><img align="right" src="https://gitranks.com/badge/repo/rickyfazaa/MySPAMBot-OTP/rank-card.svg" alt="rickyfazaa" /></p>
 
 - 🌱 I’m currently learning **[Large Language Model (LLM).](https://aws.amazon.com/id/what-is/large-language-model/)** 
 
