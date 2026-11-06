@@ -6,9 +6,7 @@
 
 - 💬 You can ask me anything about  **[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> Python basic, Python Fundamentals or Artificial Intelligence (AI).](https://linkedin.com/in/rickyfazaa)**
 
-- 📫 How to reach me **the_eiza_rhitza@yahoo.com**
-
-- ⚡ Fun fact **[I'm kang ghosting.](https://instagram.com/rickyfazaa)**
+- 📫 How to reach me **the_eiza_rhitza@yahoo.com** **[the_eiza_rhitza@yahoo.com](https://instagram.com/rickyfazaa)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
